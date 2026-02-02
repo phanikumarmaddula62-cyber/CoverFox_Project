@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Coverfox Suite" verbose="1" parallel="false">
+  <listeners>
+    <listener class-name="com.coverfox.utils.TestListener"/>
+  </listeners>
+  <test name="Coverfox Tests">
+    <classes>
+      <class name="com.coverfox.tests.CarCheckTest"/>
+      <class name="com.coverfox.tests.HealthMenuTest"/>
+      <class name="com.coverfox.tests.HealthSortTest"/>
+    </classes>
+  </test>
+</suite>

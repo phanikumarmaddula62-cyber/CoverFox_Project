@@ -1,0 +1,158 @@
+2026-01-31 12:05:57 INFO  Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-01-31 12:05:57 INFO  Utils - [TestNG] Running:
+  C:\Users\2457180\Downloads\Final Project copy\Final Project Zip\coverfox-automation-now\coverfox-automation\testng.xml
+
+2026-01-31 12:06:01 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-01-31 12:06:01 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457180\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-01-31 12:06:05 INFO  TestListener - Starting test: carCheck_ShouldShowErrorAndTakeScreenshot
+2026-01-31 12:06:16 INFO  CarCheckTest - ERROR MESSAGE: Oh, Looks like that mobile number is not valid. Check again?
+2026-01-31 12:06:22 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-01-31 12:06:22 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457180\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-01-31 12:06:24 INFO  TestListener - Starting test: healthMenu_ShouldWriteAllItemsToApacheFile
+2026-01-31 12:06:27 INFO  HealthMenuTest - Total items found: 8
+2026-01-31 12:06:27 INFO  HealthMenuTest - Companies
+2026-01-31 12:06:27 INFO  HealthMenuTest - Mediclaim Policy
+2026-01-31 12:06:27 INFO  HealthMenuTest - Individual Health Insurance Plans
+2026-01-31 12:06:27 INFO  HealthMenuTest - Critical Illness Insurance
+2026-01-31 12:06:27 INFO  HealthMenuTest - Senior Citizen Health Insurance
+2026-01-31 12:06:27 INFO  HealthMenuTest - Arogya Sanjeevani Policy
+2026-01-31 12:06:27 INFO  HealthMenuTest - Health Insurance Articles
+2026-01-31 12:06:27 INFO  HealthMenuTest - Network Hospitals
+2026-01-31 12:06:35 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-01-31 12:06:35 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457180\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-01-31 12:06:37 INFO  TestListener - Starting test: healthSort_Top3Policies_ShouldBeWrittenToApacheFile
+2026-01-31 12:06:58 INFO  HealthSortTest - --- TOP 3 POLICIES ---
+2026-01-31 12:06:58 INFO  HealthSortTest - 1. Insurer: Niva Bupa Health Insurance | Price: ₹5 Lakh | Premium: ₹9,365
+2026-01-31 12:06:58 INFO  HealthSortTest - 2. Insurer: Niva Bupa Health Insurance | Price: ₹5 Lakh | Premium: ₹4,022
+2026-01-31 12:06:58 INFO  HealthSortTest - 3. Insurer: National Insurance Company | Price: ₹1 Lakh | Premium: ₹4,899
+2026-01-31 12:07:06 INFO  TestListener - Test execution finished
+2026-02-02 08:50:39 INFO  Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-02-02 08:50:40 INFO  Utils - [TestNG] Running:
+  C:\Users\2457304\Downloads\Final Project copy\Final Project copy\Final Project Zip\coverfox-automation-now\coverfox-automation\testng.xml
+
+2026-02-02 08:50:44 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 08:50:44 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 08:50:50 INFO  TestListener - Starting test: carCheck_ShouldShowErrorAndTakeScreenshot
+2026-02-02 08:51:09 INFO  CarCheckTest - ERROR MESSAGE: Oh, Looks like that mobile number is not valid. Check again?
+2026-02-02 08:51:23 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 08:51:23 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 08:51:26 INFO  TestListener - Starting test: healthMenu_ShouldWriteAllItemsToApacheFile
+2026-02-02 08:51:30 INFO  HealthMenuTest - Total items found: 4
+2026-02-02 08:51:30 INFO  HealthMenuTest - Health Insurance
+2026-02-02 08:51:30 INFO  HealthMenuTest - Companies
+2026-02-02 08:51:30 INFO  HealthMenuTest - Mediclaim Policy
+2026-02-02 08:51:30 INFO  HealthMenuTest - Individual Health Insurance Plans
+2026-02-02 08:51:40 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 08:51:40 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 08:51:43 INFO  TestListener - Starting test: healthSort_Top3Policies_ShouldBeWrittenToApacheFile
+2026-02-02 08:52:27 INFO  HealthSortTest - --- TOP 3 POLICIES ---
+2026-02-02 08:52:27 INFO  HealthSortTest - 1. Insurer: Niva Bupa Health Insurance | Price: ₹3 Lakh | Premium: ₹3,796
+2026-02-02 08:52:36 INFO  TestListener - Test execution finished
+2026-02-02 08:50:36 INFO  Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-02-02 08:50:37 INFO  Utils - [TestNG] Running:
+  C:\Users\2457304\Downloads\Final Project copy\Final Project copy\Final Project Zip\coverfox-automation-now\coverfox-automation\testng.xml
+
+2026-02-02 08:50:42 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 08:50:42 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 08:50:46 INFO  TestListener - Starting test: carCheck_ShouldShowErrorAndTakeScreenshot
+2026-02-02 08:51:12 INFO  CarCheckTest - ERROR MESSAGE: Oh, Looks like that mobile number is not valid. Check again?
+2026-02-02 08:51:20 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 08:51:20 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 08:51:22 INFO  TestListener - Starting test: healthMenu_ShouldWriteAllItemsToApacheFile
+2026-02-02 08:51:26 INFO  HealthMenuTest - Total items found: 9
+2026-02-02 08:51:26 INFO  HealthMenuTest - Health Insurance
+2026-02-02 08:51:26 INFO  HealthMenuTest - Companies
+2026-02-02 08:51:26 INFO  HealthMenuTest - Mediclaim Policy
+2026-02-02 08:51:26 INFO  HealthMenuTest - Individual Health Insurance Plans
+2026-02-02 08:51:26 INFO  HealthMenuTest - Critical Illness Insurance
+2026-02-02 08:51:26 INFO  HealthMenuTest - Senior Citizen Health Insurance
+2026-02-02 08:51:26 INFO  HealthMenuTest - Arogya Sanjeevani Policy
+2026-02-02 08:51:26 INFO  HealthMenuTest - Health Insurance Articles
+2026-02-02 08:51:26 INFO  HealthMenuTest - Network Hospitals
+2026-02-02 08:51:40 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 08:51:40 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 08:51:43 INFO  TestListener - Starting test: healthSort_Top3Policies_ShouldBeWrittenToApacheFile
+2026-02-02 08:52:32 INFO  HealthSortTest - --- TOP 3 POLICIES ---
+2026-02-02 08:52:32 INFO  HealthSortTest - 1. Insurer: Liberty General | Price: ₹4 Lakh | Premium: ₹3,953
+2026-02-02 08:52:32 INFO  HealthSortTest - 2. Insurer: Liberty General | Price: ₹3 Lakh | Premium: ₹4,022
+2026-02-02 08:52:41 INFO  TestListener - Test execution finished
+2026-02-02 08:58:47 INFO  Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-02-02 08:58:48 INFO  Utils - [TestNG] Running:
+  C:\Users\2457304\OneDrive - Cognizant\Desktop\coverfox-automation-now\coverfox-automation\testng.xml
+
+2026-02-02 08:58:49 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 08:58:49 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 08:58:52 INFO  TestListener - Starting test: carCheck_ShouldShowErrorAndTakeScreenshot
+2026-02-02 08:59:04 INFO  CarCheckTest - ERROR MESSAGE: Oh, Looks like that mobile number is not valid. Check again?
+2026-02-02 08:59:09 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 08:59:09 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 08:59:11 INFO  TestListener - Starting test: healthMenu_ShouldWriteAllItemsToApacheFile
+2026-02-02 08:59:14 INFO  HealthMenuTest - Total items found: 9
+2026-02-02 08:59:14 INFO  HealthMenuTest - Health Insurance
+2026-02-02 08:59:14 INFO  HealthMenuTest - Companies
+2026-02-02 08:59:14 INFO  HealthMenuTest - Mediclaim Policy
+2026-02-02 08:59:14 INFO  HealthMenuTest - Individual Health Insurance Plans
+2026-02-02 08:59:14 INFO  HealthMenuTest - Critical Illness Insurance
+2026-02-02 08:59:14 INFO  HealthMenuTest - Senior Citizen Health Insurance
+2026-02-02 08:59:14 INFO  HealthMenuTest - Arogya Sanjeevani Policy
+2026-02-02 08:59:14 INFO  HealthMenuTest - Health Insurance Articles
+2026-02-02 08:59:14 INFO  HealthMenuTest - Network Hospitals
+2026-02-02 08:59:22 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 08:59:22 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 08:59:24 INFO  TestListener - Starting test: healthSort_Top3Policies_ShouldBeWrittenToApacheFile
+2026-02-02 09:00:04 INFO  HealthSortTest - --- TOP 3 POLICIES ---
+2026-02-02 09:00:04 INFO  HealthSortTest - 1. Insurer: Liberty General | Price: ₹4 Lakh | Premium: ₹3,953
+2026-02-02 09:00:04 INFO  HealthSortTest - 2. Insurer: Liberty General | Price: ₹3 Lakh | Premium: ₹4,022
+2026-02-02 09:00:10 INFO  TestListener - Test execution finished
+2026-02-02 09:58:02 INFO  Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-02-02 09:58:03 INFO  Utils - [TestNG] Running:
+  C:\Users\2457304\OneDrive - Cognizant\Desktop\coverfox-automation-now\coverfox-automation\testng.xml
+
+2026-02-02 09:58:05 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 09:58:05 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 09:58:07 INFO  TestListener - Starting test: carCheck_ShouldShowErrorAndTakeScreenshot
+2026-02-02 09:58:17 INFO  CarCheckTest - ERROR MESSAGE: Oh, Looks like that mobile number is not valid. Check again?
+2026-02-02 09:58:20 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 09:58:21 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 09:58:22 INFO  TestListener - Starting test: healthMenu_ShouldWriteAllItemsToApacheFile
+2026-02-02 09:58:24 INFO  HealthMenuTest - Total items found: 5
+2026-02-02 09:58:24 INFO  HealthMenuTest - Critical Illness Insurance
+2026-02-02 09:58:24 INFO  HealthMenuTest - Senior Citizen Health Insurance
+2026-02-02 09:58:24 INFO  HealthMenuTest - Arogya Sanjeevani Policy
+2026-02-02 09:58:24 INFO  HealthMenuTest - Health Insurance Articles
+2026-02-02 09:58:24 INFO  HealthMenuTest - Network Hospitals
+2026-02-02 09:58:28 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 09:58:28 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 09:58:30 INFO  TestListener - Starting test: healthSort_Top3Policies_ShouldBeWrittenToApacheFile
+2026-02-02 09:59:02 INFO  HealthSortTest - --- TOP 3 POLICIES ---
+2026-02-02 09:59:02 INFO  HealthSortTest - 1. Insurer: Niva Bupa Health Insurance | Price: ₹5 Lakh | Premium: ₹9,365
+2026-02-02 09:59:02 INFO  HealthSortTest - 2. Insurer: Niva Bupa Health Insurance | Price: ₹5 Lakh | Premium: ₹11,000
+2026-02-02 09:59:02 INFO  HealthSortTest - 3. Insurer: Niva Bupa Health Insurance | Price: ₹5 Lakh | Premium: ₹9,668
+2026-02-02 09:59:06 INFO  TestListener - Test execution finished
+2026-02-02 10:06:02 INFO  Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-02-02 10:06:02 INFO  Utils - [TestNG] Running:
+  C:\Users\2457304\OneDrive - Cognizant\Desktop\coverfox-automation-now\coverfox-automation\testng.xml
+
+2026-02-02 10:06:03 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 10:06:03 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 10:06:05 INFO  TestListener - Starting test: carCheck_ShouldShowErrorAndTakeScreenshot
+2026-02-02 10:06:12 INFO  CarCheckTest - ERROR MESSAGE: Oh, Looks like that mobile number is not valid. Check again?
+2026-02-02 10:06:16 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 10:06:16 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 10:06:17 INFO  TestListener - Starting test: healthMenu_ShouldWriteAllItemsToApacheFile
+2026-02-02 10:06:19 INFO  HealthMenuTest - Total items found: 7
+2026-02-02 10:06:19 INFO  HealthMenuTest - Mediclaim Policy
+2026-02-02 10:06:19 INFO  HealthMenuTest - Individual Health Insurance Plans
+2026-02-02 10:06:19 INFO  HealthMenuTest - Critical Illness Insurance
+2026-02-02 10:06:19 INFO  HealthMenuTest - Senior Citizen Health Insurance
+2026-02-02 10:06:19 INFO  HealthMenuTest - Arogya Sanjeevani Policy
+2026-02-02 10:06:19 INFO  HealthMenuTest - Health Insurance Articles
+2026-02-02 10:06:19 INFO  HealthMenuTest - Network Hospitals
+2026-02-02 10:06:24 INFO  WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2026-02-02 10:06:24 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\2457304\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2026-02-02 10:06:25 INFO  TestListener - Starting test: healthSort_Top3Policies_ShouldBeWrittenToApacheFile
+2026-02-02 10:06:59 INFO  HealthSortTest - --- TOP 3 POLICIES ---
+2026-02-02 10:06:59 INFO  HealthSortTest - 1. Insurer: Liberty General | Price: ₹4 Lakh | Premium: ₹3,953
+2026-02-02 10:06:59 INFO  HealthSortTest - 2. Insurer: Liberty General | Price: ₹4 Lakh | Premium: ₹4,353
+2026-02-02 10:06:59 INFO  HealthSortTest - 3. Insurer: Liberty General | Price: ₹5 Lakh | Premium: ₹5,073
+2026-02-02 10:07:04 INFO  TestListener - Test execution finished
